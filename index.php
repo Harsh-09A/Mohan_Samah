@@ -43,6 +43,7 @@
     <article>
         <?php include 'gallery.php'; ?>
         <?php include 'configuration.php'; ?>
+
         <?php include 'amenities.php'; ?>
         <?php include 'location.php'; ?>
         <?php include 'about.php'; ?>
@@ -53,7 +54,8 @@
     <?php include 'modal.php'; ?>
 
 
-
+    <!-- Jquery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 </body>
 
 </html>

@@ -34,12 +34,12 @@
                  </div>
                  <div class="gallery-items">
                      <div class="item">
-                         <img src="img/amenities/cafetria.jpg" />
+                         <img src="img/amenities/badmintion.webp" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
-                                 <p>CAFETERIA</p>
-                                 <p>Campus</p>
+                                 <p>Badminton</p>
+                                 <p>Court</p>
                              </div>
                          </div>
                      </div>
@@ -62,8 +62,8 @@
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
-                                 <p>CLUB </p>
-                                 <p>HOUSE</p>
+                                 <p>PARTY </p>
+                                 <p>HALL</p>
                              </div>
                          </div>
                      </div>
@@ -72,12 +72,12 @@
 
                  <div class="gallery-items hide_mobile">
                      <div class="item">
-                         <img src="img/amenities/senier_citensen.jpg" />
+                         <img src="img/amenities/deck.jpg" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
-                                 <p>Senior Citizen</p>
-                                 <p>Zone</p>
+                                 <p>Deck</p>
+                                 <p>Rooftop</p>
                              </div>
                          </div>
                      </div>
@@ -113,7 +113,7 @@
                              <div class="transparent-back"></div>
                              <div class="title-text">
                                  <p>Yoga</p>
-                                 <p>Area</p>
+                                 <p>Lawn</p>
                              </div>
                          </div>
                      </div>

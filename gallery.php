@@ -1,5 +1,5 @@
     <!-- Gallery Section -->
-    <section id="gallery_section" class="container p-4 mt-3">
+    <section id="gallery_section" class="container p-4 mt-3 mb-4">
         <div>
             <h2 class="section-heading">GALLERY</h2>
         </div>

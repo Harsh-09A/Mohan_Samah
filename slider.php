@@ -1,8 +1,8 @@
 <?php
 // Assuming you have an array of banners, you can fetch this from a database or an API.
 $banners = [
-    ['src' => 'img/banners/banner01.jpg', 'alt' => 'Banner1'],
-    ['src' => 'img/banners/banner02.jpg', 'alt' => 'Banner2'],
+    ['src' => 'img/banners/banner001.jpg', 'alt' => 'Banner1'],
+    ['src' => 'img/banners/banner002.jpg', 'alt' => 'Banner2'],
     // ['src' => 'img/banners/banner3.jpg', 'alt' => 'Banner3'],
     // ['src' => 'img/banners/banner3.jpg', 'alt' => 'Banner3']
 ];
@@ -20,7 +20,7 @@ $banners = [
         <div class="carousel-inner">
             <?php foreach ($banners as $index => $banner) : ?>
                 <div class="carousel-item <?= $index === 0 ? 'active' : '' ?>">
-                    <img class="d-block w-100" width="100%" src="<?= $banner['src'] ?>" alt="<?= $banner['alt'] ?>" />
+                    <img class="d-block w-100 <?php echo "banner$index" ?> " width="100%" src="<?= $banner['src'] ?>" alt="<?= $banner['alt'] ?>" />
                 </div>
             <?php endforeach; ?>
         </div>

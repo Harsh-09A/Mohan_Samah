@@ -12,7 +12,7 @@ $navItems = [
 ?>
 
 <header class="fixed-top shadow-sm">
-    <nav class="navbar navbar-expand-lg mx-auto" style="background-color: #ffffff" id="main-navbar">
+    <nav class="navbar navbar-expand-lg mx-auto" style="background-color: #fbfbf8" id="main-navbar">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
                 <img src="img/logo/logo3.png" alt="Logo" height="70px" />

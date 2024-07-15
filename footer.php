@@ -13,9 +13,8 @@
            </div>
            <div>
                <p>
-                   MahaRERA No - P51700053276
-                   <br />
-                   Agent RERA : A----------
+                   MahaRERA Registration No.: P51700053276
+
                </p>
 
                <p>
@@ -24,7 +23,7 @@
                    </a>
                </p>
 
-               <div class="text-center">
+               <!-- <div class="text-center">
                    <p class="contact_details">
                        <b> Site Address:-</b> ---
                        <br />
@@ -32,26 +31,22 @@
                        <br />
                        <b> Email Address:-</b> support@---.com
                    </p>
-               </div>
+               </div> -->
 
                <div>
                    <span>
                        Disclaimer : The information provided on this website is intended
-                       exclusively for informational purposes and managed by a RERA
-                       authorized real estate agent namely Mr. -----------. This Website
-                       Is Not An Official Site And It Belongs To The Authorized Marketing
-                       Partner For Information Purpose Only And Does Not Constitute An
-                       Offer To Avail Any Service.
+                       exclusively for informational purposes and the pricing information
+                       presented on this website is subject to alteration without advance
+                       notification, and the assurance of property availability cannot be
+                       guaranteed. The images showcased on this website are for
+                       representational purposes only and may not accurately reflect the
+                       actual properties. Please Note That This Is The Official Website
+                       Of Mohan Samah by VM Construction.
                    </span>
                    <span id="dots20" style="display: inline"></span>
                    <span id="more20" style="display: none">
                        <span>
-                           The pricing information presented on this website is subject to
-                           alteration without advance notification, and the assurance of
-                           property availability cannot be guaranteed. The images showcased
-                           on this website are for representational purposes only and may
-                           not accurately reflect the actual properties. Please Note That
-                           This Is The Official Website Of An Authorized Marketing Partner.
                            We May Share Data With Real Estate Regulatory Authority (RERA)
                            Registered Brokers/Companies For Further Processing As Required.
                            We May Also Send Updates And Information To The Mobile Number Or

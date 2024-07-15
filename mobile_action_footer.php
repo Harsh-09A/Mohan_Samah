@@ -2,12 +2,12 @@
 <div class="container-fluid fixed-bottom action-footer-container">
     <ul class="nav nav-fill action-footer">
         <li class="nav-item ps-1">
-            <a onclick="return gtag_report_conversion('https://wa.me/+919995558452');" href="https://wa.me/+919995558452" class="text-decoration-none text-white">
+            <a onclick="return gtag_report_conversion('https://wa.me/+1234567890');" href="https://wa.me/+1234567890" class="text-decoration-none text-white">
                 <i class="fa-brands fa-whatsapp nav-icon"> </i> Whatsapp
             </a>
         </li>
         <li class="nav-item ps-1">
-            <a onclick="return gtag_report_conversion('tel:+919995558452');" href="tel:+919995558452" class="text-decoration-none text-white">
+            <a onclick="return gtag_report_conversion('tel:+1234567890');" href="tel:+1234567890" class="text-decoration-none text-white">
                 <i class="fa-solid fa-phone me-2"></i> Call Us
             </a>
         </li>
