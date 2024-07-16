@@ -16,9 +16,9 @@ function toggleContent(dotsId, moreTextId, btnId) {
 }
 
 // fancy Box
-Fancybox.bind('[data-fancybox="floor"]', {
-  // Custom options for the first gallery
-});
+// Fancybox.bind('[data-fancybox="floor"]', {
+//   // Custom options for the first gallery
+// });
 
 // Popup Auto
 $(window).ready(function () {
