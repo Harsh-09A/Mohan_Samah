@@ -1,7 +1,7 @@
 <!-- Location Section -->
 <section id="location_section" class="container-fluid p-4 ">
   <div>
-    <h2 class="section-heading">NEARBY LOCATIONS</h2>
+    <h2 class="section-heading">connectivity</h2>
   </div>
 
   <div class="container">

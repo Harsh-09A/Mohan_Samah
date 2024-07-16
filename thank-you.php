@@ -171,9 +171,9 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
   </main>
 
 
-  <?php include 'footer.php'; ?>
-  <?php include 'mobile_action_footer.php'; ?>
-  <?php include 'modal.php'; ?>
+  <?php include 'components/footer.php'; ?>
+  <?php include 'components/mobile_action_footer.php'; ?>
+  <?php include 'components/modal.php'; ?>
 
 
   <!-- Jquery -->

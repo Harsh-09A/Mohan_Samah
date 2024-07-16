@@ -53,12 +53,15 @@ html {
 }
 
 /* Navbar */
-.navbar {
-  padding: 0;
-}
 
-.navbar-brand {
-  padding: 0;
+@media screen and (min-width: 1000px) {
+  .navbar {
+    padding: 0;
+  }
+
+  .navbar-brand {
+    padding: 0;
+  }
 }
 .nav-link span {
   font-size: 18px;

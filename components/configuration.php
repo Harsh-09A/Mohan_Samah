@@ -51,7 +51,7 @@
                     <div class="pricing_cards text-center">
                         <div class="Pricing_Header">
                             <p class="type">Apartment</p>
-                            <p class="price">₹ 1.53Cr + Tax** </p>
+                            <p class="price">₹ 1.53Cr + Tax++ </p>
                         </div>
                         <div class="Pricing_body">
                             <p class="Size">Size: 1280.00 sq. Ft.</p>
@@ -68,7 +68,7 @@
                     <div class="pricing_cards text-center">
                         <div class="Pricing_Header">
                             <p class="type">Apartment</p>
-                            <p class="price">₹ 2.50Cr + Tax** </p>
+                            <p class="price">₹ 2.50Cr + Tax++ </p>
                         </div>
                         <div class="Pricing_body">
                             <p class="Size">Size: 2080.00 Sq.Ft.</p>
@@ -85,7 +85,7 @@
                     <div class="pricing_cards text-center">
                         <div class="Pricing_Header">
                             <p class="type">Apartment</p>
-                            <p class="price">₹ 3.30Cr + Tax** </p>
+                            <p class="price">₹ 3.30Cr + Tax++ </p>
                         </div>
                         <div class="Pricing_body">
                             <p class="Size">Size: 2750.00 Sq.Ft.</p>

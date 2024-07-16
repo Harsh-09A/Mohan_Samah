@@ -35,23 +35,23 @@
 
 <body data-bs-spy="scroll" data-bs-target="#main-navbar" data-bs-root-margin="0px 0px -50%" data-bs-smooth-scroll="true" class="scrollspy" tabindex="0" data-offset="1">
 
-    <?php include 'header.php'; ?>
+    <?php include 'components/header.php'; ?>
     <main>
-        <?php include 'slider.php'; ?>
-        <?php include 'overview.php'; ?>
+        <?php include 'components/slider.php'; ?>
+        <?php include 'components/overview.php'; ?>
     </main>
     <article>
-        <?php include 'gallery.php'; ?>
-        <?php include 'configuration.php'; ?>
+        <?php include 'components/gallery.php'; ?>
+        <?php include 'components/configuration.php'; ?>
 
-        <?php include 'amenities.php'; ?>
-        <?php include 'location.php'; ?>
-        <?php include 'about.php'; ?>
+        <?php include 'components/amenities.php'; ?>
+        <?php include 'components/location.php'; ?>
+        <?php include 'components/about.php'; ?>
     </article>
 
-    <?php include 'footer.php'; ?>
-    <?php include 'mobile_action_footer.php'; ?>
-    <?php include 'modal.php'; ?>
+    <?php include 'components/footer.php'; ?>
+    <?php include 'components/mobile_action_footer.php'; ?>
+    <?php include 'components/modal.php'; ?>
 
 
     <!-- Jquery -->
