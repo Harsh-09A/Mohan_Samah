@@ -24,7 +24,7 @@
           </div>
           <div class="loc_bor d-flex justify-content-between align-items-center">
             <p>
-              <i class="fa-solid fa-train"></i>Belapur Station
+              <i class="fa-solid fa-train"></i>Terna Hospital
             </p>
             <span>15 Min</span>
           </div>
@@ -50,7 +50,7 @@
           </div>
           <div class="loc_bor d-flex justify-content-between align-items-center">
             <p>
-              <i class="fa-solid fa-school"></i>D.Y. Patil School
+              <i class="fa-solid fa-school"></i>D.Y.Patil [College, Stadium & Hospital]
             </p>
             <span>2 Min</span>
           </div>
