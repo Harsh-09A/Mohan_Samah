@@ -346,8 +346,8 @@ html {
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
 }
 
 /*  */
