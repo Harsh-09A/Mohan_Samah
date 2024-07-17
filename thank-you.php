@@ -11,7 +11,7 @@
 
 
   <!-- Favicon -->
-  <link rel="icon" href="img/extras/favicon.png" sizes="16x16" />
+  <link rel="icon" href="img/logo/favicon.png" sizes="16x16" />
 
   <!-- SEO -->
   <meta name="robots" content="index, follow" />

@@ -25,6 +25,30 @@
                            </button>
                            <br />
                        </div>
+
+                       <div class="social_icons">
+                           <p>
+                               <a href="https://www.facebook.com/vmconstructions1/" target="_blank" title="Facebook">
+                                   <i class="fa-brands fa-facebook"></i>
+                               </a>
+                           </p>
+                           <p>
+                               <a href="https://www.instagram.com/vmconstructions666/" target="_blank" title="Instagram">
+                                   <i class="fa-brands fa-instagram"></i>
+                               </a>
+                           </p>
+                           <p>
+                               <a href="https://x.com/construction_vm" target="_blank" title="Twitter">
+                                   <i class="fa-brands fa-x-twitter"></i>
+                               </a>
+                           </p>
+                           <p>
+                               <a href="https://vmconstructions.co/" target="_blank" title="Website">
+                                   <i class="fa-brands fa-chrome"></i>
+                               </a>
+                           </p>
+
+                       </div>
                    </div>
 
                    <div class="col-12 col-lg-6 p-5">

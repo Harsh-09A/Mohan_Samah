@@ -10,7 +10,7 @@
              <div class="image-gallery">
                  <div class="gallery-items">
                      <div class="item">
-                         <img src="img/amenities/gym.jpg" />
+                         <img src="img/amenities/gym.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -22,7 +22,7 @@
                  </div>
                  <div class="gallery-items">
                      <div class="item">
-                         <img src="img/amenities/kids_play.jpg" />
+                         <img src="img/amenities/kids_play.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -34,7 +34,7 @@
                  </div>
                  <div class="gallery-items">
                      <div class="item">
-                         <img src="img/amenities/badmintion.webp" />
+                         <img src="img/amenities/badmintion.webp" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -46,7 +46,7 @@
                  </div>
                  <div class="gallery-items">
                      <div class="item">
-                         <img src="img/amenities/pool.jpg" />
+                         <img src="img/amenities/pool.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -58,7 +58,7 @@
                  </div>
                  <div class="gallery-items">
                      <div class="item">
-                         <img src="img/amenities/clubhouse_hall.jpg" />
+                         <img src="img/amenities/clubhouse_hall.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -72,7 +72,7 @@
 
                  <div class="gallery-items hide_mobile">
                      <div class="item">
-                         <img src="img/amenities/deck.jpg" />
+                         <img src="img/amenities/deck.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -84,7 +84,7 @@
                  </div>
                  <div class="gallery-items hide_mobile">
                      <div class="item">
-                         <img src="img/amenities/indoor.jpg" />
+                         <img src="img/amenities/indoor.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -96,7 +96,7 @@
                  </div>
                  <div class="gallery-items hide_mobile">
                      <div class="item">
-                         <img src="img/amenities/security.jpg" />
+                         <img src="img/amenities/security.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -108,7 +108,7 @@
                  </div>
                  <div class="gallery-items hide_mobile">
                      <div class="item">
-                         <img src="img/amenities/yoga.jpg" />
+                         <img src="img/amenities/yoga.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">
@@ -120,7 +120,7 @@
                  </div>
                  <div class="gallery-items hide_mobile">
                      <div class="item">
-                         <img src="img/amenities/jogging.jpg" />
+                         <img src="img/amenities/jogging.jpg" class="img-fluid" />
                          <div class="item-title">
                              <div class="transparent-back"></div>
                              <div class="title-text">

@@ -33,7 +33,7 @@ const handleFormSubmit = async (
     ip_address: await getIpAddress(),
 
     to_email: "harsh.autowebbed@gmail.com",
-    company_name: " Mohan Samah ",
+    company_name: "Mohan Samah ",
   };
 
   // Send Form
