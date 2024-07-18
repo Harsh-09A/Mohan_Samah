@@ -41,61 +41,31 @@
   <script defer src="js/script.js"></script>
 
   <!-- Campaign Codes -->
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16624939293"></script>
+  <!-- Google Tag Manager -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-    gtag("config", "AW-16624939293");
-  </script>
-
-  <!-- Event snippet for Submit lead form - Elixir Powai conversion page -->
-  <script>
-    gtag("event", "conversion", {
-      send_to: "AW-16624939293/Ma8NCOKDx70ZEJ3isfc9",
-    });
-  </script>
-
-  <!-- Event snippet for Calls from Mobile Website - Elixir Powai conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-  <script>
-    function gtag_report_conversion(url) {
-      var callback = function() {
-        if (typeof url != "undefined") {
-          window.location = url;
-        }
-      };
-      gtag("event", "conversion", {
-        send_to: "AW-16624939293/qEmwCMSezr0ZEJ3isfc9",
-        event_callback: callback,
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
       });
-      return false;
-    }
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NSXDLFH6');
   </script>
-
-  <!-- Event snippet for Whatsapp  - Elixir Powai conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-  <script>
-    function gtag_report_conversion(url) {
-      var callback = function() {
-        if (typeof url != "undefined") {
-          window.location = url;
-        }
-      };
-      gtag("event", "conversion", {
-        send_to: "AW-16624939293/VBC4CMPG170ZEJ3isfc9",
-        event_callback: callback,
-      });
-      return false;
-    }
-  </script>
+  <!-- End Google Tag Manager -->
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#main-navbar" data-bs-root-margin="0px 0px -50%" data-bs-smooth-scroll="true" class="scrollspy" tabindex="0" data-offset="1">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSXDLFH6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
   <header class="fixed-top shadow-sm">
     <nav class="navbar navbar-expand-lg mx-auto" style="background-color: #ffffff" id="main-navbar">
       <div class="container-fluid">

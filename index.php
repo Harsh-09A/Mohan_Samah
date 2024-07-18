@@ -5,7 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mohan Samah</title>
+    <!-- SEO -->
 
+    <meta property="og:title" content="Mohan Samah" />
+    <meta property="og:url" content="https://vmconstructions.co/mohan-samah/" />
+    <meta property="og:image" content="https://vmconstructions.co/mohan-samah/img/gallery/gallery7.jpg" />
+    <meta property="og:description" content=" Mohan Samah is a top-tier residential complex situated in Nerul, Navi Mumbai's heart." />
+    <meta name="robots" content="index, follow">
 
     <!-- Favicon -->
     <link rel="icon" href="img/logo/favicon.png" sizes="16x16" />
@@ -31,9 +37,30 @@
     <!-- Custom CSS & JS  -->
     <link rel="stylesheet" href="css/style.css" />
     <script defer src="js/script.js"></script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NSXDLFH6');
+    </script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#main-navbar" data-bs-root-margin="0px 0px -50%" data-bs-smooth-scroll="true" class="scrollspy" tabindex="0" data-offset="1">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSXDLFH6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include 'components/header.php'; ?>
     <main>

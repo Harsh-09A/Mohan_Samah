@@ -26,7 +26,7 @@
             <p>
               <i class="fa-solid fa-hospital"></i>Terna Hospital
             </p>
-            <span>15 Min</span>
+            <span>2 Min</span>
           </div>
           <div class="loc_bor d-flex justify-content-between align-items-center">
             <p>
