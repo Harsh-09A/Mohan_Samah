@@ -7,7 +7,7 @@ $navItems = [
     ['href' => '#configuration_section', 'icon' => 'fa-solid fa-sliders', 'text' => 'Configuration', 'active' => false],
     ['href' => '#amenities_section', 'icon' => 'fa-solid fa-wifi', 'text' => 'Amenities', 'active' => false],
     ['href' => '#location_section', 'icon' => 'fa-solid fa-map-location', 'text' => 'Location', 'active' => false],
-    ['href' => '#about_section', 'icon' => 'fa-solid fa-user', 'text' => 'About Us', 'active' => false],
+    ['href' => '#about_section', 'icon' => 'fa-solid fa-user', 'text' => 'Contact Us', 'active' => false],
 ];
 ?>
 

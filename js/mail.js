@@ -1,7 +1,6 @@
 (function () {
-  // emailjs.init("to9PlFrMMimgruuH0");
-  //   emailjs.init("RRvCRcSEd0Ze8J6AU"); /*L&T*/
-  emailjs.init("BnRoAjGd5ec2E2VQn");
+  emailjs.init("to9PlFrMMimgruuH0");
+  // emailjs.init("BnRoAjGd5ec2E2VQn");
 })();
 
 // Get IP Address
@@ -31,8 +30,9 @@ const handleFormSubmit = async (
     contact_number: document.getElementById(phoneField).value,
     privacy_check: document.getElementById(privacyField).value,
     ip_address: await getIpAddress(),
-
-    to_email: "harsh.autowebbed@gmail.com",
+    website_url: window.location.href,
+    // to_email: "harsh.autowebbed@gmail.com",
+    to_email: "adeehomesindia00@gmail.com",
     company_name: "Mohan Samah ",
   };
 

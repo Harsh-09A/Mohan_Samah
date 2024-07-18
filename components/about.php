@@ -47,6 +47,11 @@
                                    <i class="fa-brands fa-chrome"></i>
                                </a>
                            </p>
+                           <p>
+                               <a onclick="return gtag_report_conversion('https://wa.me/+919158183634 ');" href="https://wa.me/+919158183634 " target="_blank" title="Website">
+                                   <i class="fa-brands fa-whatsapp"></i>
+                               </a>
+                           </p>
 
                        </div>
                    </div>
@@ -60,7 +65,7 @@
                                    <form id="contact-form" class="text-center">
                                        <div class="mb-3">
                                            <label for="user_name" class="form-label">Name</label>
-                                           <input type="text" class="form-control inputStyle shadow-none" name="user_name" id="user_name" placeholder="Name" autocomplete="off" required />
+                                           <input type="text" class="form-control inputStyle shadow-none" name="user_name" id="user_name" placeholder="Name *" autocomplete="off" required />
                                        </div>
                                        <div class="mb-3">
                                            <label for="user_email" class="form-label">Email address</label>
@@ -68,7 +73,7 @@
                                        </div>
                                        <div class="mb-3">
                                            <label for="contact_number" class="form-label">Phone Number</label>
-                                           <input type="tel" class="form-control inputStyle shadow-none" id="contact_number" name="contact_number" pattern="[0-9]{10}" placeholder="Phone Number" oninvalid="setCustomValidity('Please enter a valid phone number. e.g., 12345-67890')" oninput="setCustomValidity('')" required />
+                                           <input type="tel" class="form-control inputStyle shadow-none" id="contact_number" name="contact_number" minlength="10" maxlength="10" pattern="[0-9]{10}" placeholder="Phone Number *" oninvalid="setCustomValidity('Please enter a valid phone number. e.g., 12345-67890')" oninput="setCustomValidity('')" required />
                                        </div>
 
                                        <div class="d-flex ps-1 pb-2" style="font-size: 9px; color: #bfbfbf">

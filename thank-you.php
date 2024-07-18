@@ -117,7 +117,7 @@
             <li class="nav-item">
               <a class="nav-link" href="index.php#about_section">
                 <i class="fa-solid fa-user nav-icon"></i>
-                <span class="d-sm-inline"> About Us </span>
+                <span class="d-sm-inline"> Contact Us </span>
               </a>
             </li>
           </ul>

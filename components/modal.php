@@ -25,7 +25,7 @@
                             <form id="contact-form-modal" class="text-center">
                                 <div class="mb-3">
                                     <label for="user_name_modal" class="form-label">Name</label>
-                                    <input type="text" class="form-control inputStyle shadow-none" name="user_name" id="user_name_modal" placeholder="Name" autocomplete="off" required />
+                                    <input type="text" class="form-control inputStyle shadow-none" name="user_name" id="user_name_modal" placeholder="Name *" autocomplete="off" required />
                                 </div>
 
                                 <div class="mb-3">
@@ -35,7 +35,7 @@
 
                                 <div class="mb-3">
                                     <label for="contact_number_modal" class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-control inputStyle shadow-none" name="contact_number" id="contact_number_modal" pattern="[0-9]{10}" placeholder="Phone Number" oninvalid="setCustomValidity('Please enter a valid phone number. e.g., 12345-67890')" oninput="setCustomValidity('')" required />
+                                    <input type="tel" class="form-control inputStyle shadow-none" name="contact_number" id="contact_number_modal" minlength="10" maxlength="10" pattern="[0-9]{10}" placeholder="Phone Number *" oninvalid="setCustomValidity('Please enter a valid phone number. e.g., 12345-67890')" oninput="setCustomValidity('')" required />
                                 </div>
 
                                 <div class="d-flex ps-1 pb-2" style="font-size: 9px; color: #bfbfbf">
